@@ -4,4 +4,6 @@ EId3, Amit Kumar, Finance, Accounyant, 50000
 EId4, Neha Verma, Marketing, Marketing Executive, 48000
 EId5, Arjun Mehta, IT, Data Analyst, 60000
 EId6, Atif Khan, It, Data Analyst, 75000
+EId7, Asif Khan, HR, HR, 80000
+EId8, Amaan Khan, HR, HR, 75000
 
